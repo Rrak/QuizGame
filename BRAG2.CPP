@@ -6,7 +6,7 @@ This source code is an OSP[Open Source Project], Hereby it can be altered
 and can be modified according to the #Developer#.
 
 ##############################################################################
-			   Created by  OneWorld
+			   Created by  Ragnorok
 ##############################################################################*/
 
 #include<conio.h>
